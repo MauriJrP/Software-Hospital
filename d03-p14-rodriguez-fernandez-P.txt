@@ -1,1 +1,9 @@
 
+10000000000
+Estado: Activo
+Fecha de alta: 2020-05-28
+Nombre: Mauricio Rodriguez
+Edad: 18
+Servicio: Examen Sanguineo
+Historial medico: no
+Medicos: Sin medicos asignados
