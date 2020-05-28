@@ -1,0 +1,21 @@
+cedula:111-854
+nombre:HECTOR ALVAREZ OCHOA
+cargo:PEDIATRIA
+pacientes:10000000003 10000000000 10000000000 
+cedula:111-855
+nombre:MIGUEL REYNOSO TABERA
+cargo:NEUROLOGIA
+pacientes:
+cedula:111-856
+nombre:LUIS QUINTANO REAL
+cargo:CARDIOLOGIA
+pacientes:
+cedula:111-857
+nombre:JESUS ALBERTO OCAMPO DEL RIO
+cargo:NUTRIOLOGIA
+pacientes:
+
+cedula:112-546
+nombre:RODRIGUEZ MAUR
+cargo:PEDIATRA
+pacientes:

@@ -1,0 +1,37 @@
+
+10000000000
+Estado: Activo
+Fecha de alta: 2020-02-18
+Nombre: Mauricio Rodriguez
+Edad: 18
+Servicio: Examen de sangre
+Historial medico: no
+Medicos: Sin medicos asignados
+
+
+10000000001
+Estado: Inactivo
+Fecha de alta: 2020-02-19
+Nombre: Dennis
+Edad: 18
+Servicio: Examen medico
+Historial medico: no carnal
+Medicos: Sin medicos asignados
+
+10000000002
+Estado: Inactivo
+Fecha de alta: 2020-02-28
+Nombre: leo
+Edad: 19
+Servicio: nose
+Historial medico: Si
+Medicos: Sin medicos asignados
+
+10000000003
+Estado: Activo
+Fecha de alta: 2020-03-12
+Nombre: Comomepusieron
+Edad: 19
+Servicio: yoquese
+Historial medico: nose
+Medicos: Sin medicos asignados
